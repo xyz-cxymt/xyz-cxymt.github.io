@@ -1167,7 +1167,7 @@ facebook.com, 2277615732660543, DIRECT, c3e20eee3f780d68
 #fb end
 
 #Bigo start
-bigo.sg,a8cxhaooxu,DIRECT
+bigo.sg,y2wkrmzgw8,DIRECT
 antipodesdigital.com, 346, RESELLER
 pubmatic.com, 166924, RESELLER, 5d62403b186f2ace
 x.adprime.com, AJxF6R93a9M6CaTvK, RESELLER
